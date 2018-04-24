@@ -1,0 +1,50 @@
+
+body{
+    background-color:cornflowerblue;
+    margin-top: 40px;
+    text-decoration-color: ;
+    background: url("backg.jpg");
+    font-family: serif;
+    
+   
+   
+    
+   
+}
+/*
+
+div{
+    background-color: ;
+    margin-top: ;
+}
+*/
+img {
+    
+  width:100%;   
+  /*height:100%;*/
+    
+
+}
+ ul { display:table; /*margin-left:200px;*/}
+
+.jumbotron{
+/*    background-color: antiquewhite;*/
+}
+h1,h3,h4,strong{
+    color:orange
+}
+a{
+    color: red
+}
+a:hover{
+    color:darkorange
+}
+
+footer{
+    color: darkorange;
+    font-size: 18px;
+    width: auto;
+    background-color:LightGray;
+    padding: 50px 0px;
+    height: 25px;
+}
